@@ -1,0 +1,2 @@
+# PythonOsas
+datamining for kickstarter
